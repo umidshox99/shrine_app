@@ -1,0 +1,33 @@
+name: flutter_appm
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: 1.14.11
+  device_info: 0.4.1+4
+  intl: 0.16.1
+  connectivity: 0.4.6+2
+  string_scanner: 1.0.5
+  url_launcher: 5.4.1
+  video_player: 0.10.5+1
+  scoped_model: 1.0.1
+  shrine_images: 1.1.2
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+
+
+
